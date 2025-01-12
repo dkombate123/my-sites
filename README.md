@@ -1,3 +1,1 @@
-# MATH-SCOOBY
-
-STARTING FILES OF SCOOBY-MATH GAME FOR MY STUDENTS. 
+mon site web de jeux de cartes cree par moi même KOMBATE DANDIEGOU
